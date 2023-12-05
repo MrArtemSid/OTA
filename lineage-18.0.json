@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1692904579,
-      "filename": "lineage-18.1-20230814-UNOFFICIAL-0xCAFEBABE-Mi8937_4_19.zip",
-      "id": "e281960d1a905e04d0121e464cf08cff",
+      "datetime": 1692904590,
+      "filename": "lineage-18.1-20231116-UNOFFICIAL-0xCAFEBABE-Mi8937_4_19.zip",
+      "id": "e281960d1a905e04d0121e464cf08cfe",
       "romtype": "UNOFFICIAL",
-      "size": 801629159,
-      "url": "https://github.com/MrArtemSid/OTA/releases/download/test/lineage-18.1-20230814-UNOFFICIAL-0xCAFEBABE-Mi8937_4_19.zip",
+      "size": 890896773,
+      "url": "https://github.com/MrArtemSid/OTA/releases/download/test/lineage-18.1-20231116-UNOFFICIAL-0xCAFEBABE-Mi8937_4_19.zip",
       "version": "18.1"
     }
   ]
