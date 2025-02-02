@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1737838845,
-      "filename": "lineage-22.1-20250130-UNOFFICIAL-h96_max_x3.zip",
-      "id": "fc951fc6effb80e356880a111167e505",
+      "datetime": 1738526833,
+      "filename": "lineage-22.1-20250202-UNOFFICIAL-h96_max_x3.zip",
+      "id": "3f8147e33d85f4b01f05fb51f11d5f82",
       "romtype": "UNOFFICIAL",
-      "size": 545119916,
-      "url": "https://github.com/MrArtemSid/OTA/releases/download/test/lineage-22.1-20250130-UNOFFICIAL-h96_max_x3.zip",
+      "size": 545997699,
+      "url": "https://github.com/MrArtemSid/OTA/releases/download/test/lineage-22.1-20250202-UNOFFICIAL-h96_max_x3.zip",
       "version": "22.1"
     }
   ]
