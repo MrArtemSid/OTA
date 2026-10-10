@@ -1,14 +1,14 @@
 [
   {
-    "datetime": 1791575266,
+    "datetime": 1791646402,
     "files": [
       {
-        "filename": "lineage-23.2-20261009-UNOFFICIAL-a95xf3air.zip",
+        "filename": "lineage-23.2-20261010-UNOFFICIAL-a95xf3air.zip",
         "os_patch_level": "2026-09-01",
         "os_sdk_level": 36,
-        "sha256": "4578659deda62a1337b90aeaf204d806ebf7eda5abcd92769da5d68fbe448ed5",
-        "size": 729892185,
-        "url": "https://github.com/MrArtemSid/OTA/releases/download/a95xf3air/lineage-23.2-20261009-UNOFFICIAL-a95xf3air.zip"
+        "sha256": "288503f0b4e35b609a5dda413f7435745ecae17debe5bab387d63a3c9925a0e2",
+        "size": 729905583,
+        "url": "https://github.com/MrArtemSid/OTA/releases/download/a95xf3air/lineage-23.2-20261010-UNOFFICIAL-a95xf3air.zip"
       }
     ],
     "type": "UNOFFICIAL",
